@@ -1,5 +1,6 @@
 # learning-area
 completed html tables exercises
+
 GitHub repo for the [MDN Learning Area](https://developer.mozilla.org/en-US/Learn).
 
 Most of the code examples shown and discussed in the Learning Area can be found here; the directories in the repo match the module structure of the articles.
